@@ -1,0 +1,23 @@
+.issue {
+  width: 100%;
+  margin: 0.6rem 0;
+  padding: 0.8rem;
+  border: 1px solid #b6b6b6;
+  border-radius: 3px;
+
+  img {
+    width: 80%
+  }
+  pre{
+    white-space: pre-line;
+  }
+}
+
+.modalOpen {
+  width: 90%;
+  margin: 70px 50px auto;
+}
+
+.modalClose {
+  display: none;
+}
